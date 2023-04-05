@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: hsl(180, 58%, 18%);
+}
+header{
+    color: white;
+    background-color: hsl(311, 22%, 19%);
+    text-align: center;
+    font-size: 25px;
+}
+
+h2{
+    margin-bottom: 10px;
+    color: rgb(2, 2, 2);
+}
+p{
+    background-color: hsl(180, 94%, 28%);
+    border-radius: 20px;
+    padding: 12px 0;
+}
+
+section{
+    text-align: center;
+    border-radius: 10px;
+}
+
+.tema_1 {
+    width: 45%;
+    display: inline-block;
+}
+
+.tema_2 {
+    width: 45%;
+    display: inline-block;
+}
+
+.tema_3 {
+    width: 45%;
+    display: inline-block;
+}
+
+.tema_4 {
+    width: 45%;
+    display: inline-block;
+}
